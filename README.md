@@ -7,3 +7,6 @@ just go to [laugexd.github.io/beat-saber-assets](https://laugexd.github.io/beat-
 example:  
 [laugexd.github.io/beat-saber-assets/icons/notes/blue-directional.svg](https://laugexd.github.io/beat-saber-assets/icons/notes/blue-directional.svg) leads to the following image
 ![blue directional note](https://laugexd.github.io/beat-saber-assets/icons/notes/blue-directional.svg)
+
+## accessing the repository
+just go to [github.com/laugexd/beat-saber-assets](https://github.com/laugexd/beat-saber-assets/)
